@@ -5,8 +5,6 @@ session_start();
 //Defino unas constantes con datos que considero importantes
 define( 'SITE_TIMEZONE', 'Europe/Madrid' );
 define( 'SITE_LANG', ['es', 'spa', 'es_ES'] );
-define( 'ADMIN_USER', 'admin' );
-define( 'ADMIN_PASSWORD', 'admin' );
 define( 'SITE_URL', 'http://localhost:8080/UF1-NF2-PAC01/VelezBeatriz.php');
 define( 'SITE_URL2', 'http://localhost:8080/UF1-NF2-PAC01/VelezBeatriz_2.php');
 
